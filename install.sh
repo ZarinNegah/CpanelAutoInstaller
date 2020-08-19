@@ -32,7 +32,6 @@ IP=$(curl -4 -s ip.sb)
 
 # Set Hostname
 hostnamectl set-hostname server.connecttome.click
-curl "http://api.dynu.com/nic/update?hostname=connecttome.loseyourip.com&myip=${IP}&password=e19a3a687d52dabea192f2d65d127a47"
 
 # Cpanel Configer
 if [ ${OS} == CentOS ];then
