@@ -1,4 +1,4 @@
-# CpanelAutoInstaller
+# AutoInstaller
 Cpanel Auto Installer in Centos 7.x
 - - -
 ## CentOS : Copy the Command to Your VPS & Execute It:
